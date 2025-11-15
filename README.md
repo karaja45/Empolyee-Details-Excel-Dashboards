@@ -1,1 +1,31 @@
 # Empolyee-Details-Excel-Dashboards
+
+### Employee detail Dashboard
+
+## 📂 Project Description
+This project involves:
+- Cleaning raw employee data by removing inconsistencies, duplicates, and formatting errors.
+- Creating structured datasets to improve readability and usability.
+- Using Pivot Tables and Charts to analyze employee information such as:
+  - Department-wise distribution
+  - Salary insights
+  - Employee status categories
+    ## 📊 Key Features
+- ✔ Data Cleaning & Preparation  
+- ✔ Excel-based Data Analysis  
+- ✔ Pivot Table summarization  
+- ✔ Interactive Pivot Charts for visualization  
+- ✔ Insight extraction for HR decision-making
+
+- ## 🛠️ Tools & Technologies Used
+- **Microsoft Excel**
+- **Pivot Tables**
+- **Pivot Charts**
+- Data Cleaning Functions (Remove Duplicates, Filtering, Formatting, etc.)
+
+- ## 📁 Files Included
+- Cleaned Employee Dataset (Excel)
+- Pivot Table Summary
+- Pivot Chart Visualizations
+
+- 
